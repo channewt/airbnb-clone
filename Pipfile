@@ -4,12 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-<<<<<<< HEAD
-=======
-django = "*"
-pillow = "*"
-django-countries = "*"
->>>>>>> f214da97b62847a0c3cc80d2d610b1a16c709c79
 
 [dev-packages]
 
